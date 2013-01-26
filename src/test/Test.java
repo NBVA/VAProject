@@ -5,9 +5,9 @@ import java.util.ArrayList;
 public  class Test {
 	//comments
 
-	Test t = new Test;
+	//Test t = new Test;
 
-	ArrayList i = [];
+	//ArrayList i = [];
 
 	
 	//sadl;kfjaslkfjas
